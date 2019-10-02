@@ -1,6 +1,10 @@
+//this will import the header file's functions
 #include<stdio.h>
+
 int main()
 {
-printf("hello world");
+//this line will print hello world
+printf("hello world!");
 return 0;
+
 }
